@@ -4,7 +4,7 @@ Siyu Li, Kailun Yang, Hao Shi, Jiaming Zhang, Jiacheng Lin, Zhifeng Teng, and Zh
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/Bi-Mapper/blob/main/pic/img1.png" width="180" height="105"> width="180" height="105"/>
+<img src="https://github.com/lynn-yu/Bi-Mapper/blob/main/pic/img1.png" >
 </div>
 
 
