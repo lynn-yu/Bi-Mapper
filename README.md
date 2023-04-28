@@ -3,8 +3,10 @@
 Siyu Li, Kailun Yang, Hao Shi, Jiaming Zhang, Jiacheng Lin, Zhifeng Teng, and Zhiyong Li
 
 ## Motivation
+<div align=center>
+<img src="https://github.com/lynn-yu/Bi-Mapper/blob/main/pic/img1.png" width="180" height="105"> width="180" height="105"/>
+</div>
 
-![img1](https://github.com/lynn-yu/Bi-Mapper/blob/main/pic/img1.png)
 
 ### Abstract
 
