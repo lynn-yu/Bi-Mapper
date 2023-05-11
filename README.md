@@ -1,10 +1,8 @@
 # Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving  
 
-[[PDF](https://arxiv.org/pdf/2305.04205.pdf)]
-
 Siyu Li, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Jiaming Zhang](https://jamycheung.github.io/), Jiacheng Lin, Zhifeng Teng, and Zhiyong Li
 
-
+[[PDF](https://arxiv.org/pdf/2305.04205.pdf)]
 
 ## Motivation
 <div align=center>
