@@ -28,7 +28,7 @@ A semantic map of the road scene, covering fundamental road elements, is an esse
 ## Publication
 If you find this repo useful, please consider referencing the following paper:
 ```
-@article{li2023bi,
+@article{li2023bimapper,
   title={Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving},
   author={Li, Siyu and Yang, Kailun and Shi, Hao and Zhang, Jiaming and Lin, Jiacheng and Teng, Zhifeng and Li, Zhiyong},
   journal={IEEE Robotics and Automation Letters},
