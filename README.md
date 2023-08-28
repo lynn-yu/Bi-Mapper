@@ -1,8 +1,8 @@
-# Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving  
+# Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving (IEEE RA-L)  
 
 Siyu Li, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Jiaming Zhang](https://jamycheung.github.io/), Jiacheng Lin, Zhifeng Teng, and Zhiyong Li
 
-[[PDF](https://arxiv.org/pdf/2305.04205.pdf)]
+**IEEE Robotics and Automation Letters** [[PDF](https://arxiv.org/pdf/2305.04205.pdf)]
 
 ## Motivation
 <div align=center>
@@ -25,7 +25,16 @@ A semantic map of the road scene, covering fundamental road elements, is an esse
 
 2023.04.28 Init repository.
 
-
+## Publication
+If you find this repo useful, please consider referencing the following paper:
+```
+@article{li2023bi,
+  title={Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving},
+  author={Li, Siyu and Yang, Kailun and Shi, Hao and Zhang, Jiaming and Lin, Jiacheng and Teng, Zhifeng and Li, Zhiyong},
+  journal={IEEE Robotics and Automation Letters},
+  year={2023}
+}
+```
 
 ### Contact
 
