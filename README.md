@@ -36,7 +36,7 @@ pip install -r requirement.txt
 python train.py
 
 ### Evaluation
-
+python evalute.py
 
 ## Publication
 If you find this repo useful, please consider referencing the following paper:
@@ -48,7 +48,8 @@ If you find this repo useful, please consider referencing the following paper:
   year={2023}
 }
 ```
-
+### Acknowledgement
+The code framework of this project is based on ![HDMapNet](https://github.com/Tsinghua-MARS-Lab/HDMapNet), thanks to this excellent work.
 ### Contact
 
 Feel free to contact me if you have additional questions or have interests in collaboration. Please drop me an email at  lsynn@hnu.edu.cn
