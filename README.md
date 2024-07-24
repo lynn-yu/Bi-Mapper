@@ -33,10 +33,11 @@ Download  [nuScenes dataset](https://www.nuscenes.org/). And change the dataset 
 pip install -r requirement.txt
 
 ### Training
-#
+# Note the need to change the dataset path!
 python train.py
 
 ### Evaluation
+## Note the need to change the path of dataset and modelf!
 python evalute.py
 
 ## Publication
