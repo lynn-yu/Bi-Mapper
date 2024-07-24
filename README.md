@@ -27,12 +27,13 @@ A semantic map of the road scene, covering fundamental road elements, is an esse
 2024.07.24 Update
 
 ### Data
-Download  [nuScenes dataset](https://www.nuscenes.org/)
+Download  [nuScenes dataset](https://www.nuscenes.org/). And change the dataset path in the code.
 
 ### Environment
 pip install -r requirement.txt
 
 ### Training
+#
 python train.py
 
 ### Evaluation
