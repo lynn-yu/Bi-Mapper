@@ -114,7 +114,7 @@ def train(args):
             opt.step()
             counter += 1
             t1 = time()
-            sched.step()
+            #sched.step()
 
             if counter % 10 == 0:
                 intersects, union = get_batch_iou(onehot_encoding(semantic), semantic_gt)
@@ -147,7 +147,7 @@ def train(args):
         logger.info(f"{model_name} saved")
         model.train()
 
-        #sched.step()
+        sched.step()
 
 
 if __name__ == '__main__':
